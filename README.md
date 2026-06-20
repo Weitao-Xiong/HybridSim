@@ -35,7 +35,7 @@ Pu Wang<sup>3</sup> &nbsp;&nbsp;
   </sub>
 </p>
 
-## mmMesh Motion and Time-Doppler Gallery
+## Motion and Time-Doppler Signal Gallery
 
 ### Haoyu
 
