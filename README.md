@@ -9,7 +9,7 @@ Peng Li<sup>2</sup> &nbsp;&nbsp;
 Kok Chung Chua<sup>1</sup><br>
 Toa Chean Khim<sup>1</sup> &nbsp;&nbsp;
 Pu Wang<sup>3</sup> &nbsp;&nbsp;
-Hongfei Xue<sup>3†</sup>
+<a href="https://havocfixer.github.io/">Hongfei Xue</a><sup>3†</sup>
 </p>
 
 <p>
