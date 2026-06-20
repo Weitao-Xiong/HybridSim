@@ -3,7 +3,7 @@
 <h2>HybridSim: A Physics-Learning Hybrid Digital Twin for mmWave Human Sensing</h2>
 
 <p>
-Weitao Xiong<sup>1,2</sup> &nbsp;&nbsp;
+<a href="https://weitao-xiong.github.io/">Weitao Xiong</a><sup>1,2</sup> &nbsp;&nbsp;
 Tianyu Liu<sup>2</sup> &nbsp;&nbsp;
 Peng Li<sup>2</sup> &nbsp;&nbsp;
 Kok Chung Chua<sup>1</sup><br>
@@ -19,6 +19,7 @@ Hongfei Xue<sup>3†</sup>
 <sup>†</sup>Corresponding Author
 </p>
 
+[![Conference](https://img.shields.io/badge/ECCV-2026-blue.svg)]()
 [![Project Website](https://img.shields.io/badge/Project-Website-green.svg)](https://weitao-xiong.github.io/HybridSim/)
 [![Code](https://img.shields.io/badge/Code-Coming%20Soon-lightgrey.svg)]()
 
@@ -32,20 +33,6 @@ Hongfei Xue<sup>3†</sup>
   <sub>
     <b>HybridSim</b> synthesizes realistic mmWave signals from dynamic human meshes and indoor scenes by decoupling propagation into direct inverse-rendering paths and indirect 3DGS-based paths.
   </sub>
-</p>
-
-## Abstract
-
-<p align="justify">
-High-fidelity simulation of mmWave radar signals for dynamic human motion is valuable for developing radar-based human sensing models; yet collecting accurately labeled measurements for a specific deployment site remains expensive. We present <b>HybridSim</b>, a physics-learning hybrid simulator that synthesizes mmWave radar signals from dynamic human meshes under a fixed indoor room configuration, explicitly decoupling propagation into two components.
-</p>
-
-<p align="justify">
-To parameterize the human subject, we use a TriPlane representation to extract human features and a Graph Convolutional Network to stabilize optimization and mitigate gradient instability. The direct signal path is modeled via an inverse-rendering formulation with a microfacet BRDF to capture primary surface reflections. In parallel, the indirect path is approximated by combining 3D Gaussian Splatting with a virtual-receiver geometry to fit and reproduce site-specific multipath interference patterns, achieving substantially lower computational cost than explicit full ray tracing.
-</p>
-
-<p align="justify">
-Experiments in a fixed-room setting show improved agreement with a physically based reference and consistent gains on downstream radar-based human sensing tasks when using HybridSim for site-specific data augmentation.
 </p>
 
 ## mmMesh Motion and Time-Doppler Gallery
