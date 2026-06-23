@@ -138,6 +138,3 @@ If you find this repository useful, please cite the corresponding paper when it 
 }
 ```
 
-## Acknowledgements
-
-This project builds on SMPL/SMPL-X, 3D Gaussian Splatting, PyTorch, Kornia, mmGPE, and mmAP.
