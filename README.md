@@ -8,7 +8,7 @@ Tianyu Liu<sup>2</sup> &nbsp;&nbsp;
 Peng Li<sup>2</sup> &nbsp;&nbsp;
 Kok Chung Chua<sup>1</sup><br>
 Toa Chean Khim<sup>1</sup> &nbsp;&nbsp;
-Pu Wang<sup>3</sup> &nbsp;&nbsp;
+<a href="https://webpages.charlotte.edu/pwang13/">Pu Wang</a><sup>3</sup> &nbsp;&nbsp;
 <a href="https://havocfixer.github.io/">Hongfei Xue</a><sup>3†</sup>
 </p>
 
@@ -37,16 +37,14 @@ Pu Wang<sup>3</sup> &nbsp;&nbsp;
 
 ## Motion and Time-Doppler Signal Gallery
 
-### Haoyu
-
 <table>
   <tr>
     <td width="50%">
       <b>A1</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a1.mp4"><img src="assets/gallery/haoyu/haoyu_a1.gif" width="150" alt="haoyu_a1 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a1_gt.png" width="140" alt="Haoyu A1 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a1_sim.png" width="140" alt="Haoyu A1 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a1.mp4"><img src="assets/gallery/haoyu/haoyu_a1.gif" width="150" alt="A1 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a1_gt.png" width="140" alt="A1 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a1_sim.png" width="140" alt="A1 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -54,8 +52,8 @@ Pu Wang<sup>3</sup> &nbsp;&nbsp;
       <b>A2</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a2.mp4"><img src="assets/gallery/haoyu/haoyu_a2.gif" width="150" alt="haoyu_a2 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a2_gt.png" width="140" alt="Haoyu A2 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a2_sim.png" width="140" alt="Haoyu A2 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a2.mp4"><img src="assets/gallery/haoyu/haoyu_a2.gif" width="150" alt="A2 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a2_gt.png" width="140" alt="A2 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a2_sim.png" width="140" alt="A2 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -65,8 +63,8 @@ Pu Wang<sup>3</sup> &nbsp;&nbsp;
       <b>A3</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a3.mp4"><img src="assets/gallery/haoyu/haoyu_a3.gif" width="150" alt="haoyu_a3 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a3_gt.png" width="140" alt="Haoyu A3 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a3_sim.png" width="140" alt="Haoyu A3 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a3.mp4"><img src="assets/gallery/haoyu/haoyu_a3.gif" width="150" alt="A3 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a3_gt.png" width="140" alt="A3 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a3_sim.png" width="140" alt="A3 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -74,8 +72,8 @@ Pu Wang<sup>3</sup> &nbsp;&nbsp;
       <b>A4</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a4.mp4"><img src="assets/gallery/haoyu/haoyu_a4.gif" width="150" alt="haoyu_a4 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a4_gt.png" width="140" alt="Haoyu A4 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a4_sim.png" width="140" alt="Haoyu A4 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a4.mp4"><img src="assets/gallery/haoyu/haoyu_a4.gif" width="150" alt="A4 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a4_gt.png" width="140" alt="A4 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a4_sim.png" width="140" alt="A4 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -85,8 +83,8 @@ Pu Wang<sup>3</sup> &nbsp;&nbsp;
       <b>A5</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a5.mp4"><img src="assets/gallery/haoyu/haoyu_a5.gif" width="150" alt="haoyu_a5 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a5_gt.png" width="140" alt="Haoyu A5 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a5_sim.png" width="140" alt="Haoyu A5 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a5.mp4"><img src="assets/gallery/haoyu/haoyu_a5.gif" width="150" alt="A5 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a5_gt.png" width="140" alt="A5 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a5_sim.png" width="140" alt="A5 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -94,8 +92,8 @@ Pu Wang<sup>3</sup> &nbsp;&nbsp;
       <b>A6</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a6.mp4"><img src="assets/gallery/haoyu/haoyu_a6.gif" width="150" alt="haoyu_a6 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a6_gt.png" width="140" alt="Haoyu A6 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a6_sim.png" width="140" alt="Haoyu A6 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a6.mp4"><img src="assets/gallery/haoyu/haoyu_a6.gif" width="150" alt="A6 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a6_gt.png" width="140" alt="A6 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a6_sim.png" width="140" alt="A6 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -105,8 +103,8 @@ Pu Wang<sup>3</sup> &nbsp;&nbsp;
       <b>A7</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a7.mp4"><img src="assets/gallery/haoyu/haoyu_a7.gif" width="150" alt="haoyu_a7 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a7_gt.png" width="140" alt="Haoyu A7 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a7_sim.png" width="140" alt="Haoyu A7 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a7.mp4"><img src="assets/gallery/haoyu/haoyu_a7.gif" width="150" alt="A7 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a7_gt.png" width="140" alt="A7 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a7_sim.png" width="140" alt="A7 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -114,8 +112,8 @@ Pu Wang<sup>3</sup> &nbsp;&nbsp;
       <b>A8</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a8.mp4"><img src="assets/gallery/haoyu/haoyu_a8.gif" width="150" alt="haoyu_a8 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a8_gt.png" width="140" alt="Haoyu A8 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a8_sim.png" width="140" alt="Haoyu A8 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a8.mp4"><img src="assets/gallery/haoyu/haoyu_a8.gif" width="150" alt="A8 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a8_gt.png" width="140" alt="A8 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a8_sim.png" width="140" alt="A8 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
