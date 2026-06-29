@@ -43,8 +43,8 @@ Toa Chean Khim<sup>1</sup> &nbsp;&nbsp;
       <b>A1</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a1.mp4"><img src="assets/gallery/haoyu/haoyu_a1.gif" width="150" alt="A1 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a1_gt.png" width="140" alt="A1 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a1_sim.png" width="140" alt="A1 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/actions/action_a1.mp4"><img src="assets/gallery/actions/action_a1.gif" width="150" alt="A1 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/actions/action_a1_gt.png" width="140" alt="A1 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/actions/action_a1_sim.png" width="140" alt="A1 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -52,8 +52,8 @@ Toa Chean Khim<sup>1</sup> &nbsp;&nbsp;
       <b>A2</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a2.mp4"><img src="assets/gallery/haoyu/haoyu_a2.gif" width="150" alt="A2 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a2_gt.png" width="140" alt="A2 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a2_sim.png" width="140" alt="A2 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/actions/action_a2.mp4"><img src="assets/gallery/actions/action_a2.gif" width="150" alt="A2 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/actions/action_a2_gt.png" width="140" alt="A2 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/actions/action_a2_sim.png" width="140" alt="A2 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -63,8 +63,8 @@ Toa Chean Khim<sup>1</sup> &nbsp;&nbsp;
       <b>A3</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a3.mp4"><img src="assets/gallery/haoyu/haoyu_a3.gif" width="150" alt="A3 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a3_gt.png" width="140" alt="A3 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a3_sim.png" width="140" alt="A3 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/actions/action_a3.mp4"><img src="assets/gallery/actions/action_a3.gif" width="150" alt="A3 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/actions/action_a3_gt.png" width="140" alt="A3 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/actions/action_a3_sim.png" width="140" alt="A3 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -72,8 +72,8 @@ Toa Chean Khim<sup>1</sup> &nbsp;&nbsp;
       <b>A4</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a4.mp4"><img src="assets/gallery/haoyu/haoyu_a4.gif" width="150" alt="A4 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a4_gt.png" width="140" alt="A4 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a4_sim.png" width="140" alt="A4 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/actions/action_a4.mp4"><img src="assets/gallery/actions/action_a4.gif" width="150" alt="A4 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/actions/action_a4_gt.png" width="140" alt="A4 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/actions/action_a4_sim.png" width="140" alt="A4 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -83,8 +83,8 @@ Toa Chean Khim<sup>1</sup> &nbsp;&nbsp;
       <b>A5</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a5.mp4"><img src="assets/gallery/haoyu/haoyu_a5.gif" width="150" alt="A5 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a5_gt.png" width="140" alt="A5 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a5_sim.png" width="140" alt="A5 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/actions/action_a5.mp4"><img src="assets/gallery/actions/action_a5.gif" width="150" alt="A5 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/actions/action_a5_gt.png" width="140" alt="A5 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/actions/action_a5_sim.png" width="140" alt="A5 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -92,8 +92,8 @@ Toa Chean Khim<sup>1</sup> &nbsp;&nbsp;
       <b>A6</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a6.mp4"><img src="assets/gallery/haoyu/haoyu_a6.gif" width="150" alt="A6 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a6_gt.png" width="140" alt="A6 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a6_sim.png" width="140" alt="A6 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/actions/action_a6.mp4"><img src="assets/gallery/actions/action_a6.gif" width="150" alt="A6 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/actions/action_a6_gt.png" width="140" alt="A6 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/actions/action_a6_sim.png" width="140" alt="A6 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -103,8 +103,8 @@ Toa Chean Khim<sup>1</sup> &nbsp;&nbsp;
       <b>A7</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a7.mp4"><img src="assets/gallery/haoyu/haoyu_a7.gif" width="150" alt="A7 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a7_gt.png" width="140" alt="A7 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a7_sim.png" width="140" alt="A7 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/actions/action_a7.mp4"><img src="assets/gallery/actions/action_a7.gif" width="150" alt="A7 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/actions/action_a7_gt.png" width="140" alt="A7 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/actions/action_a7_sim.png" width="140" alt="A7 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
@@ -112,8 +112,8 @@ Toa Chean Khim<sup>1</sup> &nbsp;&nbsp;
       <b>A8</b>
       <table>
         <tr>
-          <td><sub>Motion</sub><br><a href="assets/gallery/haoyu/haoyu_a8.mp4"><img src="assets/gallery/haoyu/haoyu_a8.gif" width="150" alt="A8 motion preview"></a></td>
-          <td><sub>GT</sub><br><img src="assets/gallery/haoyu/haoyu_a8_gt.png" width="140" alt="A8 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/haoyu/haoyu_a8_sim.png" width="140" alt="A8 simulated time-Doppler"></td>
+          <td><sub>Motion</sub><br><a href="assets/gallery/actions/action_a8.mp4"><img src="assets/gallery/actions/action_a8.gif" width="150" alt="A8 motion preview"></a></td>
+          <td><sub>GT</sub><br><img src="assets/gallery/actions/action_a8_gt.png" width="140" alt="A8 GT time-Doppler"><br><sub>Sim</sub><br><img src="assets/gallery/actions/action_a8_sim.png" width="140" alt="A8 simulated time-Doppler"></td>
         </tr>
       </table>
     </td>
