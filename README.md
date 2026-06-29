@@ -13,7 +13,7 @@ Toa Chean Khim<sup>1</sup> &nbsp;&nbsp;
 </p>
 
 <p>
-<sup>1</sup>Xiamen University Malaysia<br>
+<sup>1</sup>Xiamen University<br>
 <sup>2</sup>The Hong Kong University of Science and Technology<br>
 <sup>3</sup>University of North Carolina at Charlotte<br>
 <sup>†</sup>Corresponding Author
